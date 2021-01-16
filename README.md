@@ -1,3 +1,3 @@
 # RobustOptBook
+toc
 
-[toc]
