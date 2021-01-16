@@ -1,6 +1,6 @@
 # RobustOptBook
 
-- [Heading](# 鲁棒优化简介（Introduction）)
+- [Heading](#鲁棒优化简介（Introduction）)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
