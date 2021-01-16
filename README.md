@@ -1,2 +1,2 @@
 # RobustOptBook
-{:toc}
+${:toc}$
